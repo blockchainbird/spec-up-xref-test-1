@@ -10,10 +10,4 @@
 
 ~ Fourth addition
 
-~ 5
-
-~ 6
-
-~ 7
-
-~ 8
+~ Another edit, showing that an xref refers to the original version.
