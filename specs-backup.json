@@ -5,18 +5,6 @@
       "spec_directory": "./spec",
       "output_path": "./docs",
       "markdown_paths": [
-        "title.md",
-        "toc.md",
-        "annex.md",
-        "biblio.md",
-        "clauses.md",
-        "foreword.md",
-        "glossaryIntro.md",
-        "header.md",
-        "introduction.md",
-        "normative_references.md",
-        "revision_history.md",
-        "scope.md",
         "terms-and-definitions-intro.md"
       ],
       "logo": "https://raw.githubusercontent.com/trustoverip/logo-assets/master/logos/ToIP-Logo-Color-SolidDimensional-Horizontal-LightOnDark.svg",
